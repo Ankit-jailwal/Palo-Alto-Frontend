@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://Ankit-jailwal.github.io/Palo-Alto-Frontend",
-
   "dependencies": {
     "axios": "^0.21.0",
     "moment": "^2.29.1",
@@ -38,7 +37,7 @@
     ]
   },
   "devDependencies": {
-    "gulp-sass": "^5.1.0",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "gulp-sass": "^5.1.0"
   }
 }
