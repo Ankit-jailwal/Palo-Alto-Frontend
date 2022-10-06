@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import Login from "./Pages/login";
 import Register from "./Pages/register";
 import Home from "./Pages/home";
@@ -8,19 +8,18 @@ import AuthController from "./Pages/authController";
 const Router = () => {
   return (
     <HashRouter>
-      <Routes>
-        <Route exact path="/login" element={Login}/>
-        <Route exact path="/register" element={Register} />
+      <Switch>
+        <Route path="/login" component={Login} exact />
+        <Route path="/register" component={Register} exact />
         <Route
           path="/"
-          element={(props) => (
+          component={(props) => (
             <AuthController {...props}>
-              <Route exact path="/" element={Home} />
+              <Route path="/" component={Home} exact />
             </AuthController>
           )}
         />
-        <Route path="*" element={<Navigate replace to = "/login"/>} />
-      </Routes>
+      </Switch>
     </HashRouter>
   );
 };
