@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Palo-Alto-Frontend/static/css/main.516896ae.chunk.css",
-    "main.js": "/Palo-Alto-Frontend/static/js/main.989c09ee.chunk.js",
-    "main.js.map": "/Palo-Alto-Frontend/static/js/main.989c09ee.chunk.js.map",
+    "main.js": "/Palo-Alto-Frontend/static/js/main.b4726186.chunk.js",
+    "main.js.map": "/Palo-Alto-Frontend/static/js/main.b4726186.chunk.js.map",
     "runtime-main.js": "/Palo-Alto-Frontend/static/js/runtime-main.d5fa98d1.js",
     "runtime-main.js.map": "/Palo-Alto-Frontend/static/js/runtime-main.d5fa98d1.js.map",
-    "static/js/2.4bed2bc8.chunk.js": "/Palo-Alto-Frontend/static/js/2.4bed2bc8.chunk.js",
-    "static/js/2.4bed2bc8.chunk.js.map": "/Palo-Alto-Frontend/static/js/2.4bed2bc8.chunk.js.map",
+    "static/js/2.a8048736.chunk.js": "/Palo-Alto-Frontend/static/js/2.a8048736.chunk.js",
+    "static/js/2.a8048736.chunk.js.map": "/Palo-Alto-Frontend/static/js/2.a8048736.chunk.js.map",
     "index.html": "/Palo-Alto-Frontend/index.html",
-    "precache-manifest.081568101b34f3c3f034d75db27540d1.js": "/Palo-Alto-Frontend/precache-manifest.081568101b34f3c3f034d75db27540d1.js",
+    "precache-manifest.f9c353932b03b8ae07b3a4f248e1cdd8.js": "/Palo-Alto-Frontend/precache-manifest.f9c353932b03b8ae07b3a4f248e1cdd8.js",
     "service-worker.js": "/Palo-Alto-Frontend/service-worker.js",
     "static/css/main.516896ae.chunk.css.map": "/Palo-Alto-Frontend/static/css/main.516896ae.chunk.css.map",
-    "static/js/2.4bed2bc8.chunk.js.LICENSE.txt": "/Palo-Alto-Frontend/static/js/2.4bed2bc8.chunk.js.LICENSE.txt",
-    "static/js/main.989c09ee.chunk.js.LICENSE.txt": "/Palo-Alto-Frontend/static/js/main.989c09ee.chunk.js.LICENSE.txt",
+    "static/js/2.a8048736.chunk.js.LICENSE.txt": "/Palo-Alto-Frontend/static/js/2.a8048736.chunk.js.LICENSE.txt",
+    "static/js/main.b4726186.chunk.js.LICENSE.txt": "/Palo-Alto-Frontend/static/js/main.b4726186.chunk.js.LICENSE.txt",
     "static/media/close.svg": "/Palo-Alto-Frontend/static/media/close.039a4381.svg",
     "static/media/menu.svg": "/Palo-Alto-Frontend/static/media/menu.9990a52e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5fa98d1.js",
-    "static/js/2.4bed2bc8.chunk.js",
+    "static/js/2.a8048736.chunk.js",
     "static/css/main.516896ae.chunk.css",
-    "static/js/main.989c09ee.chunk.js"
+    "static/js/main.b4726186.chunk.js"
   ]
 }
