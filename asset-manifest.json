@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Palo-Alto-Frontend/static/css/main.516896ae.chunk.css",
+    "main.js": "/Palo-Alto-Frontend/static/js/main.729d96a1.chunk.js",
+    "main.js.map": "/Palo-Alto-Frontend/static/js/main.729d96a1.chunk.js.map",
+    "runtime-main.js": "/Palo-Alto-Frontend/static/js/runtime-main.d5fa98d1.js",
+    "runtime-main.js.map": "/Palo-Alto-Frontend/static/js/runtime-main.d5fa98d1.js.map",
+    "static/js/2.524419cd.chunk.js": "/Palo-Alto-Frontend/static/js/2.524419cd.chunk.js",
+    "static/js/2.524419cd.chunk.js.map": "/Palo-Alto-Frontend/static/js/2.524419cd.chunk.js.map",
+    "index.html": "/Palo-Alto-Frontend/index.html",
+    "precache-manifest.e18eda3d6e406fc48a00a6054dcf396c.js": "/Palo-Alto-Frontend/precache-manifest.e18eda3d6e406fc48a00a6054dcf396c.js",
+    "service-worker.js": "/Palo-Alto-Frontend/service-worker.js",
+    "static/css/main.516896ae.chunk.css.map": "/Palo-Alto-Frontend/static/css/main.516896ae.chunk.css.map",
+    "static/js/2.524419cd.chunk.js.LICENSE.txt": "/Palo-Alto-Frontend/static/js/2.524419cd.chunk.js.LICENSE.txt",
+    "static/js/main.729d96a1.chunk.js.LICENSE.txt": "/Palo-Alto-Frontend/static/js/main.729d96a1.chunk.js.LICENSE.txt",
+    "static/media/close.svg": "/Palo-Alto-Frontend/static/media/close.039a4381.svg",
+    "static/media/menu.svg": "/Palo-Alto-Frontend/static/media/menu.9990a52e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5fa98d1.js",
+    "static/js/2.524419cd.chunk.js",
+    "static/css/main.516896ae.chunk.css",
+    "static/js/main.729d96a1.chunk.js"
+  ]
+}
