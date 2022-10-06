@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Navigate, Switch, Route } from "react-router-dom";
+import { HashRouter, Redirect, Switch, Route } from "react-router-dom";
 import Login from "./Pages/login";
 import Register from "./Pages/register";
 import Home from "./Pages/home";
@@ -11,7 +11,7 @@ const Router = () => {
       <Switch>
         <Route exact path="/login" element={Login}/>
         <Route exact path="/register" element={Register} />
-        <Route path="*" element={<Navigate replace to = "/login"/>} />
+        <Route path="*" element={<Redirect replace to = "/login"/>} />
         <Route
           path="/"
           element={(props) => (
