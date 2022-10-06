@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Redirect, Switch, Route } from "react-router-dom";
+import { HashRouter, Navigate, Route, Routes } from "react-router-dom";
 import Login from "./Pages/login";
 import Register from "./Pages/register";
 import Home from "./Pages/home";
@@ -8,10 +8,9 @@ import AuthController from "./Pages/authController";
 const Router = () => {
   return (
     <HashRouter>
-      <Switch>
+      <Routes>
         <Route exact path="/login" element={Login}/>
         <Route exact path="/register" element={Register} />
-        <Route path="*" element={<Redirect replace to = "/login"/>} />
         <Route
           path="/"
           element={(props) => (
@@ -20,7 +19,8 @@ const Router = () => {
             </AuthController>
           )}
         />
-      </Switch>
+        <Route path="*" element={<Navigate replace to = "/login"/>} />
+      </Routes>
     </HashRouter>
   );
 };
