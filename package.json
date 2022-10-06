@@ -2,7 +2,7 @@
   "name": "chatfrontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ankit-jailwal.github.io/Palo-Alto-Frontend",
+  "homepage": "https://ankit-jailwal.github.io/Palo-Alto-Frontend",
   "dependencies": {
     "axios": "^0.21.0",
     "moment": "^2.29.1",
