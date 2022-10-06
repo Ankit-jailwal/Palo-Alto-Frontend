@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94debe96da76cf1d8517708d29153f5a",
+    "revision": "fc1fef45d566d9c16a49f51f941e5525",
     "url": "/Palo-Alto-Frontend/index.html"
   },
   {
-    "revision": "9fc114ccc99d4fe201d2",
+    "revision": "75a472a5a0f7c9b19c6b",
     "url": "/Palo-Alto-Frontend/static/css/main.516896ae.chunk.css"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Palo-Alto-Frontend/static/js/2.405788d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fc114ccc99d4fe201d2",
-    "url": "/Palo-Alto-Frontend/static/js/main.304ad9bd.chunk.js"
+    "revision": "75a472a5a0f7c9b19c6b",
+    "url": "/Palo-Alto-Frontend/static/js/main.36ca2090.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Palo-Alto-Frontend/static/js/main.304ad9bd.chunk.js.LICENSE.txt"
+    "url": "/Palo-Alto-Frontend/static/js/main.36ca2090.chunk.js.LICENSE.txt"
   },
   {
     "revision": "907ed0996a50f7f9b9da",
