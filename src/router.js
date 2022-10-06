@@ -9,13 +9,13 @@ const Router = () => {
   return (
     <HashRouter>
       <Switch>
-        <Route path="/login" component={Login} exact />
-        <Route path="/register" component={Register} exact />
+        <Route exact path="/login" component={Login}/>
+        <Route exact path="/register" component={Register} />
         <Route
           path="/"
-          component={(props) => (
+          element={(props) => (
             <AuthController {...props}>
-              <Route path="/" component={Home} exact />
+              <Route exact path="/" component={Home} />
             </AuthController>
           )}
         />
