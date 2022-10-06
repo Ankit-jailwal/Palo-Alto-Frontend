@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Palo-Alto-Frontend/precache-manifest.5e1baa2bee25acd89143658756d70d4e.js"
+  "/Palo-Alto-Frontend/precache-manifest.081568101b34f3c3f034d75db27540d1.js"
 );
 
 self.addEventListener('message', (event) => {
